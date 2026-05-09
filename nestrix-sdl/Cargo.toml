@@ -1,0 +1,6 @@
+[package]
+name = "nestrix-sdl"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
